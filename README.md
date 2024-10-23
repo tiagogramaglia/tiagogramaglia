@@ -10,7 +10,6 @@
 <br>
 
 <h2>About Me</h2>
-<br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
     <li>🌱 I’m currently learning Git, Java, and GitHub.</li>
