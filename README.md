@@ -54,8 +54,3 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <br>
-
------
-Credits: [Tiago Gramaglia](https://github.com/tiagogramaglia)
-
-Last Edited on: 23/10/2024
