@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<h2>About Me</h2>
+<h2>👨‍💻 About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
     <li>🌱 I’m currently learning Git, Java, and GitHub.</li>
@@ -22,8 +22,7 @@
 <br>
 <br>
 
-<h2>My Skills Include 
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+<h2>🛠️ My Skills Include 
 </h2>
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,php,mysql,html,css,js,react,nodejs,express,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
