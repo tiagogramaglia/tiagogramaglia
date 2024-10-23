@@ -2,14 +2,14 @@
     <img width="200" src="https://github.com/tiagogramaglia/TuRepositorio/blob/main/tuimagen.png">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hi, I'm Tiago Gramaglia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=tiagogramaglia.tiagogramaglia)
 [![Github](https://img.shields.io/github/followers/tiagogramaglia?label=Follow&style=social)](https://github.com/tiagogramaglia)
 
-<div size='20px'> Hi! My name is Tiago Gramaglia. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
