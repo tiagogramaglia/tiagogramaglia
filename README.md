@@ -10,11 +10,13 @@
 
 <h2>About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on projects as a student.  
-- 🌱 I’m currently learning Git, Java, and GitHub.  
-- 👯 I’m looking to collaborate on different projects.  
-- 💬 Ask me about SQL, Java, C#, JavaScript.  
-- ⚡ Fun fact: I love sunflowers!  
+<ul>
+    <li>🔭 I’m currently working on projects as a student.</li>
+    <li>🌱 I’m currently learning Git, Java, and GitHub.</li>
+    <li>👯 I’m looking to collaborate on different projects.</li>
+    <li>💬 Ask me about SQL, Java, C#, JavaScript.</li>
+    <li>⚡ Fun fact: I love sunflowers!</li>
+</ul>
 
 <h2>My Skills Include <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 <a href="https://github.com/tiagogramaglia?tab=repositories&q=&type=&language=python&sort=">
