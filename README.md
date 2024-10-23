@@ -1,6 +1,6 @@
 <p align="center"></p>
 <h1>
-    Hi, I'm Tiago Gramaglia 
+    Hi, I’m Tiago Gramaglia 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <p align='center'></p>
@@ -11,7 +11,7 @@
 <h2>About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
-    <li>🔭 I’m currently working on projects as a student.</li>
+    <li>🔭 I’m currently developing a mobile app for a company in my city and working on projects as a student..</li>
     <li>🌱 I’m currently learning Git, Java, and GitHub.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
     <li>💬 Ask me about SQL, Java, C#, JavaScript.</li>
