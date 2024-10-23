@@ -1,5 +1,4 @@
 <p align="center">
-    <img width="200" src="https://github.com/tiagogramaglia/TuRepositorio/blob/main/tuimagen.png">
 </p>
 
 <h1> Hi, I'm Tiago Gramaglia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
