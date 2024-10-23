@@ -6,9 +6,6 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=tiagogramaglia.tiagogramaglia)
-[![Github](https://img.shields.io/github/followers/tiagogramaglia?label=Follow&style=social)](https://github.com/tiagogramaglia)
-
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -44,11 +41,7 @@
 <br>
 <br>
   <br>
-  
-[![Tiago's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tiagogramaglia&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Tiago's github stats](https://github-readme-stats.vercel.app/api?username=tiagogramaglia&show_icons=true&theme=tokyonight) | ![Tiago GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagogramaglia&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogramaglia&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tiagogramaglia&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-<br>
