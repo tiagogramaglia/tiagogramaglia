@@ -11,8 +11,8 @@
 <h2>About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
-    <li>🔭 I’m currently developing a mobile app for a company in my city and working on projects as a student..</li>
     <li>🌱 I’m currently learning Git, Java, and GitHub.</li>
+    <li>🔭 I’m currently developing a mobile app for a company in my city and working on projects as a student..</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
     <li>💬 Ask me about SQL, Java, C#, JavaScript.</li>
     <li>📫 Reach out to me at: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
