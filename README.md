@@ -7,6 +7,9 @@
 <div size='20px'>
     I am a Software Development student, currently halfway through my degree. In addition to the knowledge gained at university, I am also self-studying both back-end and front-end development. I am currently working on developing a mobile application for a grain transportation logistics company in my city. I am passionate about learning and applying new knowledge in the field of programming.
 </div>
+<br>
+<br>
+<br>
 
 <h2>About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
