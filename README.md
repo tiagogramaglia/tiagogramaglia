@@ -1,6 +1,6 @@
 <p align="center"></p>
 <h1>
-    Hɪ, I’ᴍ Tɪᴀɢᴏ Gʀᴀᴍᴀɢʟɪᴀ 
+    Hi, I’m Tiago Gramaglia
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <p align='center'></p>
@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<h2>Aʙᴏᴜᴛ Mᴇ</h2>
+<h2>About Me</h2>
 <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<h2>Mʏ Sᴋɪʟʟs Iɴᴄʟᴜᴅᴇ 
+<h2>My Skills Include 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 </h2>
 <p align="center">
