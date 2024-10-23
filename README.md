@@ -15,7 +15,7 @@
     <li>🌱 I’m currently learning Git, Java, and GitHub.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
     <li>💬 Ask me about SQL, Java, C#, JavaScript.</li>
-    <li>📫 Reach out to me at: gramagliatiago@gmail.com</li>
+    <li>📫 Reach out to me at: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 
 <h2>My Skills Include <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
