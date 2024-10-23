@@ -29,7 +29,7 @@
 
 <h3>Other Tools and Technologies</h3>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=mysql,postgres,mongo,react,nodejs,express,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=mysql,git,vscode,postgres,mongo,react,nodejs,express,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 
 <br>
