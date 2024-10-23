@@ -5,7 +5,7 @@
 </h1>
 <p align='center'></p>
 <div size='20px'>
-    Thank You for taking the time to view my GitHub Profile :smile:
+    I am a Software Development student, currently halfway through my degree. In addition to the knowledge gained at university, I am also self-studying both back-end and front-end development. I am currently working on developing a mobile application for a grain transportation logistics company in my city. I am passionate about learning and applying new knowledge in the field of programming.
 </div>
 
 <h2>About Me</h2>
