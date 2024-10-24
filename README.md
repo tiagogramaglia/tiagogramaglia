@@ -17,8 +17,7 @@
     <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 
-<img width="300" height="185" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-<br>
+<img width="300" height="185" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" style="margin-top: -30px;" />
 
 <h2>🛠️ My Skills Include</h2>
 
