@@ -10,7 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
-    <li>🌱 I’m currently learning React and Node.js.</li>
+    <li>🌱 I’m currently learning TypeScript and Node.js.</li>
     <li>🔭 </li>
     <li>👯 I’m looking to collaborate on different projects.</li>
     <li>💬 Ask me about SQL, Java, C#, JavaScript.</li>
