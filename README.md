@@ -17,6 +17,7 @@
     <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 <br>
+<br>
 
 <h2>🛠️ My Skills Include</h2>
 
