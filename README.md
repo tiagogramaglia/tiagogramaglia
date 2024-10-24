@@ -24,7 +24,7 @@
 
 <h3>Languages</h3>
 <p align="center">
-<img width="400px"  src="https://skillicons.dev/icons?i=py,java,php,html,css,js&perline=7"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=py,java,php,html,css,js,wpp&perline=7"  />
 </p>
 
 <h3>Other Tools and Technologies</h3>
