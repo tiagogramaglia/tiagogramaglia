@@ -19,8 +19,6 @@
 
 <img width="300" height="185" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 <br>
-<br>
-<br>
 
 <h2>🛠️ My Skills Include</h2>
 
