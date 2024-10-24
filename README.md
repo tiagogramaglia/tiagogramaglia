@@ -8,7 +8,7 @@
 <br>
 
 <h2>👨‍💻 About Me</h2>
-<img width="100" height="100" align="right" alt="Github" src="https://camo.githubusercontent.com/5840160bffa11dd7611bdfdb4df5d443fdc650c2ce1cda8dd8a981612e6355ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f35314d51334464754f634757366f6652332f67697068792e676966" />
+<img width="600" height="600" align="right" alt="Github" src="https://camo.githubusercontent.com/5840160bffa11dd7611bdfdb4df5d443fdc650c2ce1cda8dd8a981612e6355ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f35314d51334464754f634757366f6652332f67697068792e676966" />
 <ul>
     <li>🌱 I’m currently learning TypeScript and Ruby.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
