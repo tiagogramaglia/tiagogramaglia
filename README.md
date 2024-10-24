@@ -8,7 +8,9 @@
 <br>
 
 <h2>👨‍💻 About Me</h2>
-<img width="400" height="250" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" style="margin-right: 10px; margin-top: 10px;" />
+<div align="right" style="margin-right: 20px; margin-top: 10px;">
+    <img width="300" height="185" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</div>
 <ul>
     <li>🌱 I’m currently learning TypeScript and Ruby.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
