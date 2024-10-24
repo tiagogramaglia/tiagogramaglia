@@ -1,3 +1,11 @@
+<style>
+    .about-img {
+        display: inline-block;
+        vertical-align: top; /* Asegura que la imagen esté alineada correctamente con el texto */
+        margin-top: 40px; /* Ajusta este valor según necesites */
+    }
+</style>
+
 <h1 align="center"> Hi, I’m Tiago Gramaglia
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
@@ -8,11 +16,7 @@
 <br>
 
 <h2>👨‍💻 About Me</h2>
-<br>
-<br>
-<br>
-<br>
-<img width="300" height="185" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img class="about-img" width="300" height="185" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 <ul>
     <li>🌱 I’m currently learning TypeScript and Ruby.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
