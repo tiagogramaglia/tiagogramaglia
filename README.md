@@ -1,8 +1,12 @@
 <style>
+    .about-container {
+        display: flex;
+        justify-content: space-between; /* Espacio entre el texto y la imagen */
+        align-items: flex-start; /* Alineación vertical */
+        margin-top: 20px; /* Espaciado superior */
+    }
     .about-img {
-        display: inline-block;
-        vertical-align: top; /* Asegura que la imagen esté alineada correctamente con el texto */
-        margin-top: 40px; /* Ajusta este valor según necesites */
+        margin-left: 20px; /* Espaciado entre la imagen y el texto */
     }
 </style>
 
@@ -16,14 +20,16 @@
 <br>
 
 <h2>👨‍💻 About Me</h2>
-<img class="about-img" width="300" height="185" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-<ul>
-    <li>🌱 I’m currently learning TypeScript and Ruby.</li>
-    <li>👯 I’m looking to collaborate on different projects.</li>
-    <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
-    <li>:eyes: Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
-    <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
-</ul>
+<div class="about-container">
+    <ul>
+        <li>🌱 I’m currently learning TypeScript and Ruby.</li>
+        <li>👯 I’m looking to collaborate on different projects.</li>
+        <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
+        <li>👀 Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
+        <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
+    </ul>
+    <img class="about-img" width="300" height="185" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</div>
 <br>
 <br>
 <br>
