@@ -13,7 +13,8 @@
     <li>🌱 I’m currently learning TypeScript and Node.js.</li>
     <li>🔭 </li>
     <li>👯 I’m looking to collaborate on different projects.</li>
-    <li>💬 Ask me about SQL, Java, C#, JavaScript.</li>
+    <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
+    <li>    </li>
     <li>📫 Reach out to me at: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 <br>
