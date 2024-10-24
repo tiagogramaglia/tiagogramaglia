@@ -10,6 +10,9 @@
 <h2>👨‍💻 About Me</h2>
 
 <div style="margin-top: 20px;">
+    <br>
+    <br>
+    <br>
     <img width="300" height="185" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 </div>
 
