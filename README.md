@@ -1,19 +1,19 @@
 <h1 align="center"> Hi, I’m Tiago Gramaglia
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<p align='center'></p>
-<div size='20px'>
-    I am a Software Development student, currently halfway through my degree. In addition to the knowledge gained at university, I am also self-studying both back-end and front-end development. I am currently working on developing a mobile application for a grain transportation logistics company in my city. I am passionate about learning and applying new knowledge in the field of programming.
-</div>
 <br>
 
 <h2>👨‍💻 About Me</h2>
 <img width="270" height="270" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 <ul>
+<p align='center'></p>
+<div size='20px'>
+    I am a Software Development student, currently halfway through my degree. In addition to the knowledge gained at university, I am also self-studying both back-end and front-end development. I am currently working on developing a mobile application for a grain transportation logistics company in my city. I am passionate about learning and applying new knowledge in the field of programming.
+</div>
     <li>🌱 I’m currently learning TypeScript and Ruby.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
     <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
-    <li>👀 Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
+    <li>:eyes: Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
     <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 <br>
