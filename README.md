@@ -8,7 +8,7 @@
 <br>
 
 <h2>👨‍💻 About Me</h2>
-<img width="300" height="300" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif/>
+<img width="300" height="300" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif />
 <ul>
     <li>🌱 I’m currently learning TypeScript and Ruby.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
