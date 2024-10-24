@@ -9,13 +9,6 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<div style="margin-top: 20px;">
-    <br>
-    <br>
-    <br>
-    <img width="300" height="185" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-</div>
-
 <ul>
     <li>🌱 I’m currently learning TypeScript and Ruby.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
@@ -24,6 +17,7 @@
     <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 
+<img width="300" height="185" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 <br>
 <br>
 <br>
