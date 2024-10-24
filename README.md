@@ -10,11 +10,11 @@
 <h2>👨‍💻 About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
-    <li>🌱 I’m currently learning Git, Java, and GitHub.</li>
-    <li>🔭 </li>
+    <li>🌱 I’m currently learning TypeScript and Ruby.</li>
     <li>👯 I’m looking to collaborate on different projects.</li>
-    <li>💬 Ask me about SQL, Java, C#, JavaScript.</li>
-    <li>📫 Reach out to me at: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
+    <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
+    <li>:eyes: Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
+    <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 <br>
 <br>
@@ -24,12 +24,12 @@
 
 <h3>Languages</h3>
 <p align="center">
-<img width="400px"  src="https://skillicons.dev/icons?i=py,java,php,html,css,js,solidity&perline=7"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=py,java,php,html,css,js&perline=7"  />
 </p>
 
 <h3>Other Tools and Technologies</h3>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=mysql,postgres,mongo,react,nodejs,express,git,vscode,docker,aws,postman,supabase,linux,word,ppt,excel&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=mysql,git,vscode,postgres,react,nodejs,express,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 
 <br>
