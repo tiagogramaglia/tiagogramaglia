@@ -11,7 +11,9 @@
 <img width="270" height="280" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 <ul>
     <li>🌱 I’m currently learning TypeScript and Ruby.</li>
+    <br>
     <li>👯 I’m looking to collaborate on different projects.</li>
+    <br>
     <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
     <li>:eyes: Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
     <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
