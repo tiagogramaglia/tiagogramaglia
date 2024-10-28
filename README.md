@@ -28,7 +28,7 @@
 
 <h3>Other Tools and Technologies</h3>
 <p align="center">
-<img width="400px"  src="https://skillicons.dev/icons?i=mysql,mongo,postgres,react,nodejs,vscode&perline=10"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=mysql,mongo,postgres,react,nodejs,express,vscode&perline=10"  />
 </p>
 
 <br>
