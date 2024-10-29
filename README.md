@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2>👨‍💻 About M</h2>
+<h2>👨‍💻 About Me</h2>
 <img width="320" height="325" align="right" alt="Github" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg" />
 <ul>
     <li>🌱 I'm currently learning TypeScript and Ruby.</li>
