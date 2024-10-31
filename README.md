@@ -28,7 +28,7 @@
 
 <h3>Other Tools and Technologies</h3>
 <p align="center">
-<img width="250px"  src="https://skillicons.dev/icons?i=mysql,mongo,fastapi,django&perline=10"  />
+<img width="270px"  src="https://skillicons.dev/icons?i=mysql,mongo,fastapi,django&perline=10"  />
 </p>
 
 <br>
