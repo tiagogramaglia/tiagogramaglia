@@ -23,7 +23,7 @@
 
 <h3>Languages</h3>
 <p align="center">
-<img width="400px"  src="https://skillicons.dev/icons?i=py,html,css,js,php,java&perline=7"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=py,php,html,css,js,java&perline=7"  />
 </p>
 
 <h3>Other Tools and Technologies</h3>
