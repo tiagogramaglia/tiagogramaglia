@@ -10,7 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 <img width="320" height="325" align="right" alt="Github" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg" />
 <ul>
-    <li>🌱 I'm currently learning Ruby.</li>
+    <li>🌱 I'm currently learning C.</li>
     <li>👯 I'm looking to collaborate on different projects.</li>
     <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
     <li>👀 Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
@@ -23,12 +23,12 @@
 
 <h3>Languages</h3>
 <p align="center">
-<img width="400px"  src="https://skillicons.dev/icons?i=py,php,html,css,js,java&perline=7"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=py,php,html,css,js,ts,node.js,java,react,vite&perline=7"  />
 </p>
 
 <h3>Other Tools and Technologies</h3>
 <p align="center">
-<img width="270px"  src="https://skillicons.dev/icons?i=mysql,mongo,fastapi,django&perline=10"  />
+<img width="270px"  src="https://skillicons.dev/icons?i=mysql,mongo,fastapi,django,postgresql&perline=10"  />
 </p>
 
 <br>
