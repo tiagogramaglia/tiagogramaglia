@@ -10,10 +10,8 @@
 <h2>👨‍💻 About Me</h2>
 <img width="320" height="325" align="right" alt="Github" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg" />
 <ul>
-    <li>🌱 I'm currently learning C.</li>
     <li>👯 I'm looking to collaborate on different projects.</li>
     <li>💬 Ask me about anything you'd like, and I'll help you, even if I'm not familiar with what you're talking about.</li>
-    <li>👀 Besides programming, I enjoy playing video games, hanging out with friends, and watching UFC.</li>
     <li>📫 Contact: <a href="mailto:gramagliatiago@gmail.com" style="color: blue; text-decoration: underline;">gramagliatiago@gmail.com</a></li>
 </ul>
 <br>
